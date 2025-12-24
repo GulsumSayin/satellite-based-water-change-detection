@@ -43,7 +43,7 @@ Model, uydu görüntülerini girdi olarak almakta ve her piksel için su olasıl
 
 ### 🧪 Veri Seti ve Ön İşleme
 
-Kaynak: Satellite Images of Water Bodies (Kaggle)
+Kaynak: https://www.kaggle.com/datasets/franciscoescobar/satellite-images-of-water-bodies/data
 
 Görüntü boyutu: 256 × 256
 
